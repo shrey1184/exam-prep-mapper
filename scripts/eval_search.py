@@ -26,6 +26,7 @@ TESTS = [
     ("How to overcome barriers to listening", "Unit 2", ["Barriers to Listening"]),
     ("Culture and hierarchy differences in communication", "Unit 2", ["Culture and Communication"]),
     ("Challenges of communication in a globalized world", None, ["Global"]),
+    # Paraphrased queries: avoid the exact words used in section titles
     ("why do people misunderstand each other at work", "Unit 2", ["Barriers"]),
     ("how do I say no to a request politely", "Unit 2", ["Bad News", "Bad-News"]),
     ("saying the same thing in fewer words", "Unit 1", ["Brevity"]),
@@ -45,14 +46,16 @@ def hit_rank(results, unit, subs):
 with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
     qvecs = embed([t[0] for t in TESTS], task="RETRIEVAL_QUERY")
     for mode in ("vector", "keyword", "hybrid"):
-        hits, fails = 0, []
+        hits, top1, fails = 0, 0, []
         for (q, unit, subs), qv in zip(TESTS, qvecs):
             res = search(conn, q, qvec=qv, mode=mode, top=5)
             r = hit_rank(res, unit, subs)
+            if r == 1:
+                top1 += 1
             if r and r <= 3:
                 hits += 1
             else:
                 fails.append((q, r))
-        print(f"{mode:<8} top-3: {hits}/{len(TESTS)}")
+        print(f"{mode:<8} top-1: {top1}/{len(TESTS)}  top-3: {hits}/{len(TESTS)}")
         for q, r in fails:
             print(f"    miss: {q}  (rank: {r or 'not in top 5'})")
