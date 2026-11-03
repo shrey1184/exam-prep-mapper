@@ -61,8 +61,6 @@ def run(pdf_path: str, unit: str):
                 print(f"OCR page {i}/{len(pdf.pages)}")
                 text = ocr_page(page_png(page))
                 f.write_text(text)
-                wait = 60 if "429" in msg else 5 * (attempt + 1)
-                time.sleep(os.wait)
             pages.append({"page": i, "text": text})
 
     sections = []
