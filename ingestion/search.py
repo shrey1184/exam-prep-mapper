@@ -33,14 +33,13 @@ def keyword_search(conn, query, k=10):
     ).fetchall()
 
 
-def rrf(lists, k=60):
+def rrf(lists, weights, k=60):
     scores, rows = {}, {}
-    for lst in lists:
+    for lst, w in zip(lists, weights):
         for rank, row in enumerate(lst, start=1):
-            scores[row[0]] = scores.get(row[0], 0) + 1 / (k + rank)
+            scores[row[0]] = scores.get(row[0], 0) + w / (k + rank)
             rows[row[0]] = row
     return [rows[i] for i in sorted(scores, key=scores.get, reverse=True)]
-
 
 def search(conn, query, qvec=None, mode="hybrid", top=5):
     if mode in ("hybrid", "vector") and qvec is None:
@@ -51,8 +50,7 @@ def search(conn, query, qvec=None, mode="hybrid", top=5):
         return v[:top]
     if mode == "keyword":
         return kw[:top]
-    return rrf([v, kw])[:top]
-
+    return rrf([v, kw], weights=[3, 1])[:top]
 
 if __name__ == "__main__":
     q = " ".join(sys.argv[1:]) or "elements of communication"
