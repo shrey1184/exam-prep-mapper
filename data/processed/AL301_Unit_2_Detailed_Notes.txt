@@ -1,0 +1,597 @@
+=== PAGE 1 ===
+AL301
+TECHNICAL COMMUNICATION
+UNIT 2 (cid:127) COMPLETE DETAILED NOTES
+Types of Communication (cid:127) Non-verbal Communication (cid:127) Barriers (cid:127) Culture &
+Global Communication
+Interpersonal Skills (cid:127) Listening (cid:127) Persuasion (cid:127) Negotiation (cid:127) Bad-News
+Messages
+STUDENT-FRIENDLY STUDY EDITION
+Concept maps (cid:127) Colour-coded summaries (cid:127) Examples (cid:127) Tables (cid:127) Practice
+questions
+How to use these notes
+Read the concept in sequence, study the colour diagrams, learn the examples, and revise from the quick
+recap and question bank at the end. These notes follow the Unit 2 topics visible in the supplied AL301
+Technical Communication syllabus.
+
+=== PAGE 2 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+1. Unit 2 at a Glance
+A roadmap to the concepts in this unit
+Communication is the process of creating shared meaning. Unit 2 moves from the forms of communication to the human
+skills that make communication effective in classrooms, workplaces and multicultural settings.
+Forms of Barriers & Interpersonal Listening & Workplace
+communication culture skills influence messages
+Learning outcomes
+(cid:127) Differentiate verbal, non-verbal and written communication, and identify major forms of non-verbal cues.
+(cid:127) Recognise physical, semantic, psychological, cultural and organisational barriers and choose ways to reduce them.
+(cid:127) Explain how culture influences language, time, hierarchy, feedback, gestures and business etiquette.
+(cid:127) Apply interpersonal communication, active listening, persuasion and negotiation skills.
+(cid:127) Choose a suitable approach for communicating difficult or bad news professionally.
+Key vocabulary
+Term Simple meaning Workplace example
+Encoding Turning an idea into words, symbols or actions. A lecturer explains a lab task.
+Decoding Interpreting the message received. A student understands the task.
+Feedback A response that shows how a message was A student asks a clarifying question.
+understood.
+Context The situation surrounding communication. A formal email differs from a friendly chat.
+Noise Anything that disturbs meaning. Loud construction outside a classroom.
+Exam tip
+For a 5- or 10-mark answer, define the concept, classify it, explain each point, add a practical example, and
+finish with its importance.
+UNIT 2 NOTES (cid:127) PAGE 2
+
+=== PAGE 3 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+2. Forms of Communication: The Big Picture
+Communication can be classified according to the channel used, the number of participants, the direction of information
+flow and the degree of formality. In real life, several forms operate together: a teacher may speak, use slides, gesture
+and invite questions in the same lesson.
+Sender Message Channel Receiver Feedback
+Main classifications
+Basis Types Illustration
+Mode / channel Verbal, non-verbal, visual, written Conversation, gesture, chart, email
+Participants Intrapersonal, interpersonal, group, public, Self-talk, pair discussion, lecture, TV broadcast
+mass
+Formality Formal and informal Official circular vs friendly chat
+Direction in an Downward, upward, horizontal, diagonal Manager instructions; employee feedback; peer
+organisation coordination
+Feedback pattern One-way and two-way Recorded announcement vs interactive discussion
+Verbal communication
+Verbal communication uses words, either spoken or written. Oral communication includes conversations, lectures,
+interviews, meetings, telephone calls and presentations. Written communication includes emails, reports, notices,
+letters, minutes and messages. Words provide explicit content, while tone, pace and context influence how the content
+is understood.
+Non-verbal communication
+Non-verbal communication conveys meaning without relying only on words. Facial expressions, eye behaviour,
+gestures, posture, physical distance, touch, voice qualities, appearance, silence and the use of time can strengthen,
+qualify or contradict a verbal message.
+Remember
+Effective communication is not simply sending information. It is checking whether the receiver has
+understood the intended meaning.
+UNIT 2 NOTES (cid:127) PAGE 3
+
+=== PAGE 4 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+3. Verbal Communication: Spoken and Written
+Verbal communication is useful when a message needs words to explain facts, instructions, opinions or emotions. Its
+effectiveness depends on the choice of words, structure, tone, audience and opportunity for feedback.
+Oral communication Written communication
+Usually immediate and interactive. Can be planned, edited and stored.
+Tone and instant feedback can clarify meaning. A permanent record can support accountability.
+Useful for discussion, interviews and urgent coordination. Useful for policies, instructions, reports and formal decisions.
+May be forgotten or misunderstood if not documented. Can sound impersonal; feedback may be delayed.
+Principles of effective verbal communication
+(cid:127) Clarity: use familiar words and a logical sequence.
+(cid:127) Conciseness: remove repetition while retaining necessary details.
+(cid:127) Correctness: verify names, dates, figures, grammar and facts.
+(cid:127) Completeness: include what the receiver needs to act.
+(cid:127) Courtesy: use respectful language, even when disagreeing.
+(cid:127) Concreteness: replace vague claims with specific information.
+(cid:127) Audience awareness: adapt technical vocabulary and detail to the listener.
+Example: unclear vs clear instruction
+Less effective More effective
+“Submit it soon.” “Please upload the lab report to the LMS by 4 p.m. on
+Thursday.”
+“Your work is not good.” “Your report needs a clearer objective, labelled figures and two
+credible references.”
+“Everyone knows this.” “As discussed in Monday’s class, use the following three
+steps…”
+Practical check
+Before sending a message, ask: Who is receiving it? What action is needed? By when? What could be
+misunderstood?
+UNIT 2 NOTES (cid:127) PAGE 4
+
+=== PAGE 5 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+4. Non-verbal Communication (NVC)
+Non-verbal communication includes signals that communicate meaning without words or alongside words. These
+signals can show interest, confidence, discomfort, respect, urgency and emotional state. Their meaning is not universal:
+the same gesture can be interpreted differently across cultures and situations.
+Face Eyes Gestures Posture Space & voice
+Functions of non-verbal cues
+Function What it does Example
+Repeating Says the same thing as words. Saying “this way” while pointing.
+Complementing Adds detail to spoken words. A warm smile supports a welcome.
+Substituting Replaces words. A nod may mean “yes” or “I understand.”
+Regulating Manages turns in conversation. Looking toward a speaker can invite them to continue.
+Contradicting Conflicts with spoken words. Saying “I’m fine” with a tense voice and withdrawn
+posture.
+Emphasising Highlights a point. A deliberate hand movement underlines a key idea.
+Why NVC matters
+(cid:127) It helps speakers appear attentive and approachable.
+(cid:127) It provides clues about whether a listener is following the message.
+(cid:127) It can make presentations more engaging and easier to understand.
+(cid:127) It supports rapport, but should not be treated as a perfect way to read someone’s thoughts.
+Important caution
+Never judge a person’s honesty, interest or personality from one isolated gesture. Consider the context,
+culture, individual habits and other signals together.
+UNIT 2 NOTES (cid:127) PAGE 5
+
+=== PAGE 6 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+5. Major Categories of Non-verbal Communication
+Category Meaning Example / professional use
+Kinesics Body movement: facial expression, Use natural gestures and an open posture while presenting.
+gesture, posture and head movement.
+Oculesics Eye behaviour and eye contact. Look toward the audience without staring or forcing eye
+contact.
+Proxemics Use of interpersonal distance and space. Respect personal space during a conversation.
+Haptics Communication through touch. A handshake may be a greeting where culturally
+appropriate.
+Paralanguage Vocal features other than the words: Slow down when explaining a difficult concept.
+pitch, volume, pace, pauses and voice
+quality.
+Chronemics Use and interpretation of time. Arriving punctually communicates reliability in many
+settings.
+Appearance / Clothing, grooming, objects and visual Dress appropriately for an interview or formal meeting.
+artefacts presentation.
+Silence A pause or absence of speech that may Allow a pause after asking a question.
+communicate thought, respect, hesitation
+or disagreement.
+Body language in a classroom or meeting
+(cid:127) Face the audience and keep shoulders relaxed.
+(cid:127) Use gestures to support ideas, not to distract from them.
+(cid:127) Avoid reading every line from slides; look up regularly.
+(cid:127) Notice group signals, but ask a respectful question instead of assuming what a person feels.
+(cid:127) Match vocal energy to the room and the purpose of the message.
+Example
+A presenter says, “I welcome questions,” but looks at the floor, speaks too softly and turns away. The words
+invite participation, while the non-verbal signals may unintentionally discourage it.
+UNIT 2 NOTES (cid:127) PAGE 6
+
+=== PAGE 7 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+6. Interpreting and Improving Non-verbal Signals
+Non-verbal cues are most reliable when interpreted as patterns rather than single signs. A folded arm, for example, may
+indicate discomfort, but it may also simply mean the room is cold. Professional communicators observe, remain curious
+and clarify when needed.
+A practical observation framework
+Clarify
+Observe Check context Compare cues
+respectfully
+Do and avoid
+Do Avoid
+Use a natural, attentive expression. Forcing a permanent smile.
+Adjust volume so everyone can hear. Shouting or speaking so quietly that listeners struggle.
+Allow culturally appropriate eye contact. Assuming every culture expects the same eye-contact pattern.
+Keep a balanced, comfortable posture. Treating one posture as proof of a particular emotion.
+Observe whether the audience seems confused and invite Labelling a listener “rude” merely because they are quiet.
+questions.
+Online non-verbal communication
+(cid:127) Position the camera near eye level and keep the face adequately lit.
+(cid:127) Mute the microphone when not speaking and avoid distracting background movement.
+(cid:127) Use facial expression and voice deliberately because many body cues are not visible online.
+(cid:127) Use clear subject lines, punctuation and considerate response timing in digital messages.
+(cid:127) Do not rely on emojis alone for serious or sensitive workplace messages.
+Mini activity
+In pairs, deliver the same sentence—“That is an interesting idea”—with three different tones. Discuss how
+pitch, pace, facial expression and context change its meaning.
+UNIT 2 NOTES (cid:127) PAGE 7
+
+=== PAGE 8 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+7. Barriers to Communication
+A communication barrier is anything that prevents a message from being sent, received or interpreted as intended.
+Barriers can occur at any stage: a sender may frame an unclear message, a channel may fail, or a receiver may
+interpret the message through assumptions.
+Sender Encoding Channel Decoding Receiver
+Common barriers and solutions
+Barrier How it appears Ways to reduce it
+Physical / Noise, poor lighting, distance, faulty Choose a suitable place, test equipment, reduce noise.
+environmental microphone.
+Semantic / Jargon, ambiguous words, unfamiliar accents, Use plain language, define terms, paraphrase and
+language poor translation. confirm.
+Psychological / Anxiety, anger, fear, low confidence, Pause, listen without judgement, build trust and choose
+emotional prejudice. timing.
+Physiological Hearing difficulty, fatigue, illness, speech Make reasonable accommodations, provide written
+difficulty. support, take breaks.
+Cultural Different meanings, etiquette, time Ask respectfully, learn norms, avoid stereotypes.
+expectations and values.
+Organisational Too many approval layers, unclear authority, Clarify responsibilities and channels; encourage upward
+information silos. feedback.
+Technological Weak internet, incompatible platforms, Test the platform, share backup information, summarise
+notification overload. decisions.
+Information Too many details or messages at once. Prioritise, structure, chunk information and state actions
+overload clearly.
+Core principle
+Do not simply blame the receiver. Improve the message, the channel and the opportunity for feedback.
+UNIT 2 NOTES (cid:127) PAGE 8
+
+=== PAGE 9 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+8. Language, Psychological and Organisational Barriers
+Semantic barriers arise when people attach different meanings to the same words or symbols. Technical terms may be
+precise for experts but confusing for beginners. Words such as “soon,” “adequate” or “urgent” can also mean different
+things to different people.
+Examples of semantic barriers
+(cid:127) Jargon: specialist language that an audience may not know.
+(cid:127) Ambiguity: a sentence with more than one possible meaning.
+(cid:127) Different language proficiency: the receiver may know the topic but not the vocabulary.
+(cid:127) Overly complex sentences: multiple ideas make the action difficult to identify.
+(cid:127) Faulty translation: a translated phrase may not preserve tone or intended meaning.
+Psychological barriers
+Emotions influence both sending and receiving. A worried student may not ask a question; an angry manager may hear
+feedback as an attack; a person who expects criticism may interpret neutral comments negatively. Stereotypes and
+confirmation bias can also lead people to notice only information that supports their existing beliefs.
+Organisational barriers
+Rigid hierarchy can discourage employees from sharing concerns. Departmental silos may prevent teams from seeing
+the same facts. Unclear roles can lead to duplicated work, while excessive formalities can delay urgent decisions.
+Informal rumours may fill gaps when official communication is slow.
+Problematic message Improved version
+“Do the needful ASAP.” “Please check the attached attendance sheet and send the
+corrected version by 2 p.m. today.”
+“The report is wrong.” “The total in Table 2 does not match the figures in the appendix.
+Please verify it.”
+“No one told me.” “I may have missed the update. Could you confirm which channel
+was used?”
+A useful habit
+Use the teach-back method for important instructions: ask the receiver to explain the next steps in their own
+words, without making them feel tested.
+UNIT 2 NOTES (cid:127) PAGE 9
+
+=== PAGE 10 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+9. Culture and Communication
+Culture is a shared set of values, beliefs, practices, expectations and learned behaviours. It can influence greetings,
+politeness, disagreement, personal space, eye contact, punctuality, silence, hierarchy and decision-making. Culture is
+not limited to nationality: family, profession, generation, region and organisation can also shape communication.
+Culture’s visible and less-visible layers
+Visible Language & Values & Deep
+practices etiquette assumptions expectations
+Cultural differences that may affect communication
+Dimension Possible difference Helpful response
+Directness Some speakers state disagreement explicitly; others Focus on meaning and ask for clarification politely.
+soften it.
+Hierarchy Some settings expect formal titles and deference; Observe preferred forms of address and decision
+others favour informality. routes.
+Time Punctuality and scheduling flexibility may be valued Agree on deadlines and communicate changes
+differently. early.
+Silence A pause may signal thought, respect, discomfort or a Allow time; do not rush to fill every pause.
+wish to speak.
+Personal space Comfortable conversational distance can vary. Follow the other person’s cues and respect
+boundaries.
+Feedback Some people prefer direct correction; others prefer Give specific, respectful feedback in a suitable
+private or softened feedback. setting.
+Avoid stereotypes
+Cultural patterns are tendencies, not rules for every individual. Ask, observe and adapt instead of assuming
+someone behaves a certain way because of their background.
+UNIT 2 NOTES (cid:127) PAGE 10
+
+=== PAGE 11 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+10. Communicating in a Global World
+Global communication happens when people work, study or collaborate across countries, languages, time zones and
+cultural expectations. Online meetings, international supply chains, remote teams and global education make
+intercultural competence an everyday professional skill.
+Best practices for global communication
+(cid:127) Use plain international English: avoid idioms, slang, obscure humour and unnecessary abbreviations.
+(cid:127) Speak at a measured pace: pause between major points and pronounce key terms clearly.
+(cid:127) Make writing scannable: use informative subject lines, headings, short paragraphs and action bullets.
+(cid:127) Check understanding: summarise decisions and invite questions without embarrassment.
+(cid:127) Respect time zones: rotate meeting times where possible and record key outcomes.
+(cid:127) Be careful with humour: jokes, irony and sarcasm may not translate well.
+(cid:127) Confirm dates and units: write dates unambiguously, such as “12 October 2026,” and specify time zones.
+(cid:127) Use inclusive participation: give quieter members time and more than one way to contribute.
+Example: global project email
+Subject: Design review — action items due 16 October
+Hello team,
+Thank you for today’s review. Please upload the revised diagrams to the shared folder by 16 October,
+17:00 IST. Add a short note describing each change. If the deadline is difficult, reply by tomorrow so that we
+can agree on a plan. I have listed the decisions and owners below.
+Best regards,
+Project Coordinator
+Digital etiquette in cross-border teams
+Choose synchronous communication (live call) when nuance, discussion or rapid clarification matters. Choose
+asynchronous communication (email, shared document or recorded update) when people need time to review
+information or work across time zones. Document decisions so that team members who could not attend can still
+contribute.
+UNIT 2 NOTES (cid:127) PAGE 11
+
+=== PAGE 12 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+11. Interpersonal Communication
+Interpersonal communication is the exchange of information, feelings and meaning between two or more people who
+can respond to one another. It occurs in student–teacher interactions, interviews, meetings, teamwork, counselling,
+customer service and everyday relationships.
+Qualities of effective interpersonal communication
+Quality Meaning Example
+Empathy Trying to understand another person’s “It sounds as though the deadline has been difficult.”
+perspective.
+Respect Recognising the other person’s dignity and Disagreeing without insults.
+rights.
+Assertiveness Expressing needs clearly while respecting “I can help after I finish the lab assessment.”
+others.
+Openness Being willing to exchange ideas and ask Inviting a colleague to suggest a better method.
+questions.
+Feedback Sharing specific observations about impact “Your opening was clear; add an example in the second
+or performance. section.”
+Adaptability Changing style to suit audience and context. Explaining a technical term to a first-year student.
+A simple interpersonal communication cycle
+Listen carefully Understand needs Respond clearly Check meaning
+Assertive, passive and aggressive styles
+Style Typical pattern Likely impact
+Passive Avoids expressing needs; agrees despite concerns. Needs may remain unmet; resentment may build.
+Aggressive Uses blame, threats or disrespect to get a result. Damages trust and invites defensiveness.
+Assertive Clear, calm, direct and respectful. Supports boundaries, cooperation and
+problem-solving.
+Useful sentence frame
+“When [specific situation] happens, it affects [impact]. Could we [clear request]?” Example: “When the
+meeting starts late, we lose review time. Could we begin at 10 a.m. as planned?”
+UNIT 2 NOTES (cid:127) PAGE 12
+
+=== PAGE 13 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+12. Listening Skills and Active Listening
+Hearing is the physical process of receiving sound; listening is the active process of attending to, interpreting, evaluating
+and responding to a message. Effective listening requires concentration and an intention to understand before replying.
+Receive Attend Interpret Evaluate Respond
+Types of listening
+Type Purpose Example
+Discriminative Notice differences in sounds, tone or Recognising a change in a speaker’s voice.
+emphasis.
+Informational Understand and retain information. Listening to lab instructions.
+Critical Assess evidence and reasoning. Evaluating a proposal’s strengths and weaknesses.
+Empathetic Understand another person’s feelings and Listening to a stressed student without rushing to judge.
+perspective.
+Appreciative Enjoy or value the experience. Listening to a speech, story or performance.
+Active listening behaviours
+(cid:127) Give attention: reduce distractions, put away unnecessary notifications and face the speaker.
+(cid:127) Use brief encouragers such as “I see,” “go on” or a natural nod, where appropriate.
+(cid:127) Paraphrase: “So the main issue is that the instructions changed after the deadline.”
+(cid:127) Ask open questions: “What part of the process caused the delay?”
+(cid:127) Reflect feelings carefully: “It sounds frustrating to repeat the work.”
+(cid:127) Summarise agreements and next steps before ending the discussion.
+The 70/30 reminder
+In a difficult conversation, aim to give the other person enough space to explain their view. The exact ratio is
+not a rule; the goal is balanced participation and accurate understanding.
+UNIT 2 NOTES (cid:127) PAGE 13
+
+=== PAGE 14 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+13. Barriers to Listening and How to Overcome Them
+Listening barrier What happens Practical remedy
+Distraction Attention moves to phones, noise or side Remove distractions and choose a quieter place.
+conversations.
+Premature judgement The listener decides the answer before hearing Delay evaluation until the speaker finishes.
+the full message.
+Rehearsing a reply The listener plans a comeback instead of Write a keyword if needed; return attention to the
+understanding. speaker.
+Emotional reaction Anger, fear or embarrassment blocks careful Pause, breathe, name the issue calmly and
+interpretation. continue when ready.
+Information overload Too many details exceed working memory. Ask for a summary, take notes and group
+information.
+Assumptions The listener fills gaps with guesses or Ask a neutral clarifying question.
+stereotypes.
+Selective listening Only preferred or familiar details are noticed. Summarise the full message, including
+inconvenient points.
+Language difficulty Unfamiliar vocabulary or accent obscures Request repetition, simpler wording or written
+meaning. confirmation.
+Listening in lectures and meetings
+(cid:127) Preview the topic and note the purpose before the session.
+(cid:127) Record key ideas, examples, questions and action items rather than every word.
+(cid:127) Use headings or a two-column note format: “main idea” and “evidence/example.”
+(cid:127) At the end, summarise three takeaways and identify anything still unclear.
+(cid:127) When giving feedback, describe what you heard before adding your opinion.
+Practice: listen–paraphrase–question
+Speaker: “Our team keeps missing deadlines because the task owner changes and updates are spread across different
+chats.”
+Paraphrase: “The main problem is unclear ownership and scattered updates.”
+Question: “Would one shared task tracker with a named owner for each item help?”
+Exam distinction
+Listening is an active communication skill; it includes attention, interpretation, evaluation, memory and
+response—not just hearing sounds.
+UNIT 2 NOTES (cid:127) PAGE 14
+
+=== PAGE 15 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+14. Persuasion: Influencing with Reasons and Trust
+Persuasion is the process of influencing a person’s beliefs, attitudes or actions through communication. Ethical
+persuasion provides relevant evidence, explains benefits, acknowledges concerns and respects the audience’s freedom
+to decide. It is different from manipulation, which hides important facts or uses pressure unfairly.
+Three classical appeals
+Appeal Focus Example
+Ethos Credibility and trustworthiness of the A qualified trainer explains the basis for a safety
+speaker. recommendation.
+Logos Logic, evidence, facts and reasoning. A proposal compares costs, timelines and measurable
+outcomes.
+Pathos Emotion, values and human relevance. A story shows how a service helps students feel included.
+Know audience State claim Give evidence Address concern Invite action
+A practical persuasion structure
+(cid:127) Attention: open with a relevant problem, question or brief fact.
+(cid:127) Need: explain why the issue matters to this audience.
+(cid:127) Solution: offer a specific and realistic proposal.
+(cid:127) Evidence: support the proposal with examples, data or expert reasoning.
+(cid:127) Objections: acknowledge the strongest reasonable concern and respond honestly.
+(cid:127) Action: state the next step clearly.
+Example: persuade a class to use a shared study calendar
+“We sometimes miss submission dates because information is spread across messages. A shared calendar would list
+each task, its owner and the deadline in one place. We can test it for two weeks and review whether it reduces
+confusion. If it adds unnecessary work, we can simplify it. Shall we try it for the next assignment?”
+Ethical checklist
+Is the information accurate? Are limitations disclosed? Is the request fair? Can the audience say no without
+being punished? If not, revise the approach.
+UNIT 2 NOTES (cid:127) PAGE 15
+
+=== PAGE 16 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+15. Negotiation Skills
+Negotiation is a communication process in which two or more parties discuss differences and seek an agreement. It is
+common in project planning, workload allocation, deadlines, salary discussions, resource sharing and conflict resolution.
+A good negotiation protects essential interests while exploring solutions acceptable to both sides.
+Positions versus interests
+Term Meaning Example
+Position What a party says it wants. “I need the report by Friday.”
+Interest The reason behind the request. “I need time to verify the figures before Monday’s
+review.”
+Option A possible solution. Submit a draft Friday and verified final version
+Monday.
+Objective criterion A fair standard used to evaluate options. Policy, workload data, agreed quality standards.
+A five-stage negotiation process
+Prepare Explore needs Generate options Evaluate Agree & review
+Principles of constructive negotiation
+(cid:127) Prepare goals, facts, priorities, alternatives and the limits of what you can accept.
+(cid:127) Separate the people from the problem; criticise the issue, not the person.
+(cid:127) Ask questions to understand needs before proposing a solution.
+(cid:127) Generate more than one option rather than arguing over a single demand.
+(cid:127) Use fair criteria and explain the reasoning behind your proposal.
+(cid:127) Confirm who will do what, by when, and how the agreement will be reviewed.
+Useful phrase
+“I understand why that date matters. Could we explore a staged submission that protects your review time
+and gives us enough time for quality checks?”
+UNIT 2 NOTES (cid:127) PAGE 16
+
+=== PAGE 17 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+16. Negotiation, Conflict and Difficult Conversations
+Conflict is not always harmful. When handled respectfully, it can reveal unclear expectations and produce better
+decisions. It becomes destructive when participants attack character, withhold information, threaten, interrupt or treat
+compromise as defeat.
+Common approaches to conflict
+Approach When it may fit Risk if overused
+Collaborating The issue matters to both sides and time is Can take longer than the situation allows.
+available.
+Compromising Both sides can accept a middle-ground outcome. May leave the deeper problem unresolved.
+Accommodating The issue matters more to the other person or Your legitimate needs may be ignored.
+preserving goodwill is important.
+Competing / Urgent action or a firm safety rule is required. Can damage trust if used unnecessarily.
+directing
+Avoiding / Emotions are too high or the issue is minor and The issue may grow if never revisited.
+postponing timing is poor.
+De-escalation steps
+(cid:127) Lower the pace and volume of your voice.
+(cid:127) Describe the observable issue rather than assigning motives.
+(cid:127) Acknowledge the other person’s concern without pretending to agree.
+(cid:127) Identify the shared goal, such as accuracy, fairness or student learning.
+(cid:127) Offer two or three realistic options and invite the other person’s view.
+(cid:127) Write down the agreed actions and follow-up date.
+Example: workload disagreement
+Instead of: “You always give me extra work at the last minute.”
+Try: “Three additional tasks came in after Tuesday’s schedule was finalised. I can complete the report today or prepare
+the presentation first. Which is the priority, and can we agree on a process for late requests?”
+Boundary reminder
+Being polite does not mean agreeing to everything. State limits respectfully and offer alternatives when
+possible.
+UNIT 2 NOTES (cid:127) PAGE 17
+
+=== PAGE 18 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+17. Communicating Bad News and Negative Messages
+A bad-news message communicates information the receiver may find disappointing, inconvenient or upsetting: a
+rejected request, a delay, a policy change, a complaint outcome or an unsuccessful application. The communicator’s
+task is to be truthful, considerate and clear while preserving professional relationships.
+Choose the message strategy
+Strategy Structure Suitable when
+Direct approach Main decision first fi brief reasons fi alternatives / next The issue is routine, the audience expects
+steps fi courteous close. a clear answer, or urgency matters.
+Indirect approach Neutral opening fi context and reasons fi decision The news may be disappointing and
+clearly stated fi alternatives / next steps fi courteous context can help the reader understand it.
+close.
+Guidelines for delivering bad news
+(cid:127) Be accurate and timely; do not hide the decision behind vague wording.
+(cid:127) Explain the reason at an appropriate level of detail without blaming or exposing private information.
+(cid:127) Use respectful language and acknowledge the impact where appropriate.
+(cid:127) Avoid false hope, excessive apologies or promises you cannot keep.
+(cid:127) Offer alternatives, support, an appeal route or a practical next step if available.
+(cid:127) Choose a private conversation for sensitive personal matters; follow it with written confirmation when necessary.
+A simple decision map
+Routine / State decision Sensitive / Add context &
+urgent? early complex? options
+Tone matters
+A bad-news message should be neither cold nor misleading. Be humane in tone and firm about facts.
+UNIT 2 NOTES (cid:127) PAGE 18
+
+=== PAGE 19 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+18. Bad-News Message: Models and Examples
+Example A: Direct message about a missed deadline
+Subject: Revised submission date
+Hello team,
+The final report will not be ready for today’s 3 p.m. review because the verification stage is incomplete. The
+review has been moved to 10 a.m. tomorrow. Please use today to check the figures and upload any
+corrections by 6 p.m. I will share an updated agenda this afternoon.
+Thank you for your cooperation.
+Why it works: the decision and new timing are clear; the reason is brief; the next action is specific.
+Example B: Indirect message declining a request
+Subject: Request for additional lab slot
+Dear Student,
+Thank you for explaining your request for an additional lab slot. The current timetable has all available
+laboratory periods assigned, and the room must remain available for scheduled practicals. For this reason, I
+am unable to approve an extra slot this week. You may attend the next available supervised practice
+session on Monday, subject to confirmation. Please contact the lab coordinator if you need help identifying a
+suitable group.
+Regards,
+Course Coordinator
+Why it works: it acknowledges the request, gives a neutral reason, states the refusal plainly and offers a realistic next step.
+Example C: Giving constructive negative feedback
+“Your presentation topic is relevant and your opening is engaging. At present, the slides contain too much text, so the
+main argument is difficult to follow. Please reduce each slide to key phrases, add one example to support your main
+claim, and rehearse within the allotted time. We can review the revised version on Thursday.”
+Common mistakes to avoid
+(cid:127) Being so indirect that the reader cannot identify the decision.
+(cid:127) Using accusatory phrases such as “You failed to…” when a neutral description will do.
+(cid:127) Giving a reason that is untrue or revealing confidential details.
+(cid:127) Ending without a next step when a useful alternative is available.
+UNIT 2 NOTES (cid:127) PAGE 19
+
+=== PAGE 20 ===
+AL301 (cid:127) TECHNICAL COMMUNICATION
+19. Quick Revision Sheet & Exam Practice
+One-minute recap
+Topic Remember
+Verbal communication Uses words; oral and written forms each have strengths and limitations.
+Non-verbal communication Includes kinesics, oculesics, proxemics, haptics, paralanguage, chronemics, appearance and
+silence.
+Functions of NVC Repeats, complements, substitutes, regulates, contradicts or emphasises verbal messages.
+Barriers Physical, semantic, psychological, physiological, cultural, organisational, technological and
+overload.
+Culture & global Use plain language, clarify expectations, respect difference and avoid stereotypes.
+communication
+Interpersonal communication Empathy, respect, assertiveness, feedback and adaptability support relationships.
+Listening Receive, attend, interpret, evaluate and respond; paraphrase and ask clarifying questions.
+Persuasion Use credibility, logic and appropriate emotional relevance ethically.
+Negotiation Explore interests, generate options, use fair criteria and document agreements.
+Bad-news messages Be truthful, clear and considerate; choose a direct or indirect structure based on context.
+Long-answer questions
+(cid:127) Explain verbal and non-verbal communication with examples. Discuss the major categories of non-verbal
+communication.
+(cid:127) What are communication barriers? Explain different types and suggest practical remedies.
+(cid:127) Discuss the role of culture in communication and describe strategies for effective global communication.
+(cid:127) Define active listening. Explain its stages, types, barriers and improvement techniques.
+(cid:127) What is persuasion? Explain ethos, logos and pathos with suitable examples.
+(cid:127) Describe the stages of negotiation and explain how conflict can be managed constructively.
+(cid:127) Explain direct and indirect approaches to communicating bad news, with suitable message examples.
+Short-answer / viva questions
+(cid:127) Differentiate hearing and listening.
+(cid:127) What is proxemics? Give one example.
+(cid:127) Name any four functions of non-verbal communication.
+(cid:127) What is semantic noise?
+(cid:127) Differentiate assertive and aggressive communication.
+(cid:127) Why should idioms be limited in global communication?
+(cid:127) What is the difference between a position and an interest in negotiation?
+(cid:127) Mention two features of an effective bad-news message.
+Final exam formula
+Definition fi classification / process fi explanation of points fi relevant example fi importance / conclusion.
+Use headings and underline key terms in handwritten answers.
+Prepared for AL301 Technical Communication (cid:127) Unit 2 study and revision
+UNIT 2 NOTES (cid:127) PAGE 20
