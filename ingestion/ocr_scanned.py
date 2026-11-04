@@ -28,7 +28,8 @@ def page_png(page) -> bytes:
     return buf.getvalue()
 
 
-def ocr_page(png: bytes) -> str:
+
+def ocr_page(png: bytes, prompt: str = PROMPT) -> str:
     for attempt in range(4):
         try:
             resp = client.models.generate_content(
